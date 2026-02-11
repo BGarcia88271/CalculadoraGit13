@@ -1,3 +1,10 @@
+/**
+ * Esta clase contiene las operaciones básicas y avanzadas de una calculadora.
+ * Proyecto realizado para la práctica de Git y GitHub.
+ * 
+ * @author TuNombre
+ * @version 1.0
+ */
 package calculadora13;
 
 public class Calculadora13 {
