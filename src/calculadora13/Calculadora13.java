@@ -4,6 +4,8 @@
  * 
  * @author TuNombre
  * @version 1.0
+ * @since 1.0
+ * @see <a href="http://www.google.com">Documentacion de Google</a>
  */
 package calculadora13;
 
